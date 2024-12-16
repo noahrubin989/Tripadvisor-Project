@@ -1,0 +1,6 @@
+pandas
+streamlit
+requests
+azure-core
+azure-ai-textanalytics
+python-dotenv
