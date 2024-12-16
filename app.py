@@ -26,7 +26,7 @@ def search_locations(search_query: str, language: str = 'en') -> List[Tuple[str,
     Parameters
     ----------
     search_query : str
-        The search query (use a city name e.g. Sydney.
+        The search query (use a city name e.g. Sydney).
     language : str, optional
         Language code for the search results. Defaults to 'en'.
         
